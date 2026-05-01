@@ -69,7 +69,7 @@ export default function Home() {
               Da oltre vent&rsquo;anni al fianco di imprese e professionisti con competenza, trasparenza e attenzione personale. Uno studio che cresce insieme a voi.
             </p>
             <div className="reveal stagger-3 flex flex-col sm:flex-row gap-4">
-              <a href="#contatti" className="bg-gold text-navy font-semibold px-8 py-4 rounded-full text-center hover:bg-gold-light transition-colors">
+              <a href="#contatti" className="bg-gold text-white font-semibold px-8 py-4 rounded-full text-center hover:bg-gold-light transition-colors">
                 Prenota una Consulenza
               </a>
               <a href="#servizi" className="border-2 border-white/30 text-white font-semibold px-8 py-4 rounded-full text-center hover:bg-white/10 transition-colors">
