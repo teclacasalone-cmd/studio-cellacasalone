@@ -96,12 +96,12 @@ export default function Home() {
             <div className="flex animate-scroll gap-16 items-center">
               {[...Array(2)].map((_, repeat) => (
                 <div key={repeat} className="flex gap-16 items-center shrink-0">
-                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Hogan Lovells</span>
-                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 2</span>
-                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 3</span>
-                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 4</span>
-                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 5</span>
-                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 6</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">—</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">—</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">—</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">—</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">—</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">—</span>
                 </div>
               ))}
             </div>
