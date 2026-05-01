@@ -88,6 +88,27 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ── PARTNER ── */}
+      <section className="py-16 bg-white border-b border-gray-100">
+        <div className="max-w-6xl mx-auto px-6">
+          <p className="reveal text-center text-gray-400 text-sm font-semibold tracking-[0.2em] uppercase mb-10">Partner e Clienti</p>
+          <div className="relative overflow-hidden">
+            <div className="flex animate-scroll gap-16 items-center">
+              {[...Array(2)].map((_, repeat) => (
+                <div key={repeat} className="flex gap-16 items-center shrink-0">
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Hogan Lovells</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 2</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 3</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 4</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 5</span>
+                  <span className="text-2xl font-bold text-gray-300 whitespace-nowrap font-[family-name:var(--font-playfair)]">Partner 6</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* ── CHI SIAMO ── */}
       <section id="chi-siamo" className="py-24 md:py-32 bg-white">
         <div className="max-w-6xl mx-auto px-6">
