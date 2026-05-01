@@ -329,7 +329,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-navy">Sede</h4>
-                    <p className="text-gray-500">Via Giotto 7, 20145 Milano MI</p>
+                    <p><a href="https://maps.google.com/?q=Via+Giotto+7+20145+Milano" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-gold transition-colors underline underline-offset-2">Via Giotto 7, 20145 Milano MI</a></p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -347,7 +347,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-navy">Telefono</h4>
-                    <p className="text-gray-500">02 4801 9169</p>
+                    <p><a href="tel:+390248019169" className="text-gray-500 hover:text-gold transition-colors underline underline-offset-2">02 4801 9169</a></p>
                   </div>
                 </div>
               </div>
@@ -404,8 +404,8 @@ export default function Home() {
             <div>
               <h4 className="text-white font-semibold mb-4 text-sm tracking-wider uppercase">Sede</h4>
               <p className="text-white/50 text-sm leading-relaxed">
-                Via Giotto 7, 20145 Milano MI<br />
-                Tel. 02 4801 9169
+                <a href="https://maps.google.com/?q=Via+Giotto+7+20145+Milano" target="_blank" rel="noopener noreferrer" className="text-white/50 hover:text-gold transition-colors underline underline-offset-2">Via Giotto 7, 20145 Milano MI</a><br />
+                <a href="tel:+390248019169" className="text-white/50 hover:text-gold transition-colors underline underline-offset-2">Tel. 02 4801 9169</a>
               </p>
             </div>
           </div>
