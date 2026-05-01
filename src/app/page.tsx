@@ -60,7 +60,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 pt-24 pb-16 relative z-10">
           <div className="max-w-3xl">
             <p className="reveal text-gold font-semibold text-sm tracking-[0.2em] uppercase mb-6">
-              Studio di Commercialisti &middot; Milano
+              Studio di Dottori Commercialisti e Revisori Legali
             </p>
             <h1 className="reveal stagger-1 font-[family-name:var(--font-playfair)] text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-8">
               Il vostro partner per <span className="text-gold">crescere</span> con fiducia
