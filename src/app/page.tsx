@@ -232,10 +232,13 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
             {[
               { name: "Martino Cella", role: "Socio Fondatore", bio: "Dottore Commercialista e Revisore Legale. Specializzato in consulenza fiscale e societaria per imprese di medie e grandi dimensioni." },
               { name: "Luca Casalone", role: "Socio Fondatore", bio: "Dottore Commercialista e Revisore Legale. Esperto in contabilit\u00e0, bilanci e consulenza per startup e PMI innovative." },
+              { name: "Francesca Casalone", role: "Collaboratrice", bio: "" },
+              { name: "Anna", role: "Collaboratrice", bio: "" },
+              { name: "Gabriella", role: "Collaboratrice", bio: "" },
             ].map((m, i) => (
               <div key={i} className={`reveal stagger-${i + 1}`}>
                 <div className="bg-gray-50 rounded-3xl p-8 text-center hover:shadow-xl transition-shadow duration-300">
