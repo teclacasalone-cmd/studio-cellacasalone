@@ -98,7 +98,7 @@ export default function Home() {
                 Tradizione e innovazione al servizio del cliente
               </h2>
               <p className="reveal stagger-2 text-gray-600 text-lg leading-relaxed mb-6">
-                Lo Studio Studio Cella Casalone nasce dalla volont&agrave; di offrire un servizio professionale completo, capace di coniugare rigore tecnico e visione strategica.
+                Lo Studio Cella Casalone nasce dalla volont&agrave; di offrire un servizio professionale completo, capace di coniugare rigore tecnico e visione strategica.
               </p>
               <p className="reveal stagger-3 text-gray-600 leading-relaxed mb-8">
                 Con sede a Milano, assistiamo societ&agrave;, imprenditori e privati in ogni aspetto della vita fiscale e societaria, dalla costituzione di nuove realt&agrave; alla consulenza ordinaria, fino alle operazioni straordinarie.
@@ -386,7 +386,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-white/30 text-sm">&copy; 2026 Studio Studio Cella Casalone. Tutti i diritti riservati.</p>
+            <p className="text-white/30 text-sm">&copy; 2026 Studio Cella Casalone. Tutti i diritti riservati.</p>
             <div className="flex gap-6">
               <a href="#" className="text-white/30 hover:text-gold text-sm transition-colors">Privacy Policy</a>
               <a href="#" className="text-white/30 hover:text-gold text-sm transition-colors">Cookie Policy</a>
