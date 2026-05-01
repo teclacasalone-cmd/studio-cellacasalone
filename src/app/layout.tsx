@@ -15,9 +15,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Studio CellaCasalone | Commercialisti a Milano",
+  title: "Cella Casalone Commercialisti Associati | Milano",
   description:
-    "Studio di commercialisti e revisori contabili a Milano. Consulenza fiscale, societaria e aziendale per imprese e privati.",
+    "Commercialista abilitato all'esercizio della professione a Milano. Consulenza fiscale, societaria e aziendale per imprese e privati. Via Giotto 7, 20145 Milano.",
 };
 
 export default function RootLayout({

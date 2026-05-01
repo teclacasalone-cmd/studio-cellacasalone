@@ -308,7 +308,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-navy">Sede</h4>
-                    <p className="text-gray-500">Milano, Italia</p>
+                    <p className="text-gray-500">Via Giotto 7, 20145 Milano MI</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -326,7 +326,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-navy">Telefono</h4>
-                    <p className="text-gray-500">+39 02 XXXX XXX</p>
+                    <p className="text-gray-500">02 4801 9169</p>
                   </div>
                 </div>
               </div>
@@ -383,8 +383,8 @@ export default function Home() {
             <div>
               <h4 className="text-white font-semibold mb-4 text-sm tracking-wider uppercase">Sede</h4>
               <p className="text-white/50 text-sm leading-relaxed">
-                Milano, Italia<br />
-                P.IVA: XX XXXXXXX XXX
+                Via Giotto 7, 20145 Milano MI<br />
+                Tel. 02 4801 9169
               </p>
             </div>
           </div>
