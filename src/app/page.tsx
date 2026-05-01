@@ -26,7 +26,7 @@ export default function Home() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-b border-gray-100 transition-all duration-300">
         <div className="max-w-6xl mx-auto px-6 flex items-center justify-between h-16">
           <a href="#" className="font-[family-name:var(--font-playfair)] text-xl font-bold text-navy tracking-tight">
-            CellaCasalone
+            Studio Cella Casalone
           </a>
           <div className="hidden md:flex items-center gap-8">
             <a href="#chi-siamo" className="text-sm font-medium text-gray-600 hover:text-navy transition-colors">Chi Siamo</a>
@@ -98,7 +98,7 @@ export default function Home() {
                 Tradizione e innovazione al servizio del cliente
               </h2>
               <p className="reveal stagger-2 text-gray-600 text-lg leading-relaxed mb-6">
-                Lo Studio CellaCasalone nasce dalla volont&agrave; di offrire un servizio professionale completo, capace di coniugare rigore tecnico e visione strategica.
+                Lo Studio Studio Cella Casalone nasce dalla volont&agrave; di offrire un servizio professionale completo, capace di coniugare rigore tecnico e visione strategica.
               </p>
               <p className="reveal stagger-3 text-gray-600 leading-relaxed mb-8">
                 Con sede a Milano, assistiamo societ&agrave;, imprenditori e privati in ogni aspetto della vita fiscale e societaria, dalla costituzione di nuove realt&agrave; alla consulenza ordinaria, fino alle operazioni straordinarie.
@@ -363,7 +363,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid md:grid-cols-3 gap-12 mb-12">
             <div>
-              <h3 className="font-[family-name:var(--font-playfair)] text-2xl font-bold text-white mb-4">CellaCasalone</h3>
+              <h3 className="font-[family-name:var(--font-playfair)] text-2xl font-bold text-white mb-4">Studio Cella Casalone</h3>
               <p className="text-white/50 leading-relaxed text-sm">
                 Studio di Dottori Commercialisti e Revisori Legali. Al vostro fianco con competenza e passione.
               </p>
@@ -386,7 +386,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-white/30 text-sm">&copy; 2026 Studio CellaCasalone. Tutti i diritti riservati.</p>
+            <p className="text-white/30 text-sm">&copy; 2026 Studio Studio Cella Casalone. Tutti i diritti riservati.</p>
             <div className="flex gap-6">
               <a href="#" className="text-white/30 hover:text-gold text-sm transition-colors">Privacy Policy</a>
               <a href="#" className="text-white/30 hover:text-gold text-sm transition-colors">Cookie Policy</a>
